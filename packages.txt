@@ -1,2 +1,2 @@
-default-jre（2:1.11-72）
+default-jre
 jtreg
