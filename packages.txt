@@ -1,2 +1,2 @@
-openjdk-11-jre
+default-jre（2:1.11-72）
 jtreg
